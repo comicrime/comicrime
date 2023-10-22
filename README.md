@@ -1,7 +1,7 @@
 # Hi there
 
 - 🐿 I'm a software developer at [amo](https://amo.tm/).
-- 🤖 Most of the time I'm writing on Go.
+- 🤖 Most of the time I'm writing on Go, C or Rust.
 
 ## 🛠 Skills
 
