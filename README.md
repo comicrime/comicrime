@@ -1,3 +1,7 @@
+Drained af  
+Go / Linux  
+[![alt text](linux.gif)](https://distrowatch.com/table.php?distribution=arch)
+
 <!--START_SECTION:emo-gitlab-->
 | Month | Contributions | Progress | 
 |-------|---------------|---------------------------|
